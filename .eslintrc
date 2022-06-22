@@ -1,0 +1,8 @@
+{
+  "env": {
+    "node": true,
+    "commonjs": true
+  },
+  "extends": ["@remix-run/eslint-config", "plugin:prettier/recommended"],
+  "plugins": ["prettier"]
+}
